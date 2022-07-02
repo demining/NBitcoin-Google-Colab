@@ -239,3 +239,10 @@ Please, use github issues for questions or feedback. For confidential requests o
 
 ## Useful link for a free IDE :
 Visual Studio Community Edition : [https://www.visualstudio.com/products/visual-studio-community-vs](https://www.visualstudio.com/products/visual-studio-community-vs "https://www.visualstudio.com/products/visual-studio-community-vs")
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
